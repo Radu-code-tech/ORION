@@ -1,0 +1,4 @@
+event_bus:
+  mode: synchronous
+  failure_policy: collect_and_continue
+  dispatch_order: registration_order

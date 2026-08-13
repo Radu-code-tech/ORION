@@ -1,0 +1,4 @@
+scheduler:
+  tick_interval_seconds: 0.25
+  timezone: UTC
+  fail_fast: true

@@ -1,0 +1,5 @@
+market_data:
+  storage: in_memory
+  ordering: timestamp_ascending
+  duplicate_policy: reject
+  validation: strict_ohlcv

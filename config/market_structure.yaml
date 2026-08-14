@@ -1,0 +1,8 @@
+market_structure:
+  minimum_bars: 3
+  classification: swing_progression
+  outputs:
+    - BULLISH
+    - BEARISH
+    - RANGE
+    - INSUFFICIENT_DATA

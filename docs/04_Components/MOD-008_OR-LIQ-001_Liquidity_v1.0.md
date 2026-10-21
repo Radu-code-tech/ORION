@@ -1,9 +1,9 @@
 # MOD-008 — OR-LIQ-001 Liquidity Engine v1.0
 
-**Status:** REVIEW — algorithmic rules owner-approved; specification freeze pending  
-**Branch:** `MOD-008-v1.0-liquidity`  
-**Baseline:** `460fa5cf22aa4fc2d8a8cb740bc93042aa4e5bcd`  
-**Layer:** ORION Analysis  
+**Status:** APPROVED — specification frozen; owner-approved
+**Branch:** `MOD-008-v1.0-liquidity`
+**Baseline:** `460fa5cf22aa4fc2d8a8cb740bc93042aa4e5bcd`
+**Layer:** ORION Analysis
 **Scope:** Deterministic OHLC-based *liquidity proxies*, not observed order-book liquidity.
 
 ## 1. Purpose and boundaries
